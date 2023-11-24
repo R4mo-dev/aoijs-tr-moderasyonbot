@@ -1,0 +1,27 @@
+{
+  "name": "aoi.js-tr moderasyonbot",
+  "version": "1.0.9",
+  "description": "aoi.js-tr Modülü Kullanıllarak Yapılan Moderasyon Botudur.",
+  "author": "R4mo-dev",
+  "main": "index.js",
+  "typings": "src/index.d.ts",
+  "engines": {
+    "node": ">=16.11.0"
+  },
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoijs-tr/aoi.js-tr.git"
+  },
+  "keywords": [
+    "aoi.js",
+    "aoijs",
+    "aoi",
+    "api",
+    "moderation"
+  ],
+  "dependencies": {
+    "@akarui/aoi.db": "^1.0.0",
+    "@akarui/structures": "^1.0.2",
+    "aoi.js": "^6.5.6"
+  }
